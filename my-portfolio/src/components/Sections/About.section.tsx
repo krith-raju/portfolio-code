@@ -11,7 +11,7 @@ const About: NextComponentType = () => {
         </p>
         <p className='mt-3 text-gray-400'>Georgia Institute of Technology</p>
         <p className='mt-4 text-indigo-300'>
-          GT FSIL Researcher, Traverse Development Engineer, ScrambleId Architect
+          GT FSIL Researcher, Traverse Development Engineer, Mobicip Computer Vision Intern
         </p>
       </div>
 
